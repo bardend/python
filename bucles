@@ -1,0 +1,13 @@
+#for
+coleccion=[1,2,3,4,58,6]
+
+for i in coleccion:
+    print(f"hola")
+
+c={"ale":22,"eqwe":23,"dsads":23}
+for i in c:
+    print(f"{i}->{c[i]}")
+    
+c="Ricardo"
+for i in c:
+    print(f"{i}",end="  ")    
